@@ -1,9 +1,7 @@
 <body>
 <div class="section text-h-center text-v-center"></div>
 
-.container{
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
+.center{
+  text-align: center;
 }
 </body>
