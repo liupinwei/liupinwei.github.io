@@ -1,16 +1,7 @@
-<body>
+body{
+  font: 300 14px/1.2 'Times New Roman', san-serif;
+}
 <div class="section text-h-center text-v-center"></div>
 
-.center{
-  text-align: center;
-}
 
-.container{
-     height:800px;
-     margin-top:0px;
-     background: linear-gradient(lightblue,white);
-     background: linear-gradient(lightblue,white);
-     background: linear-gradient(lightblue,white);
-     background: linear-gradient(lightblue,white);
-     }
 </body>
